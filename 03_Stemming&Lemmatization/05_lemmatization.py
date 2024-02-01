@@ -11,7 +11,7 @@ paragraph = """I have three visions for India. In 3000 years of our history, peo
                the French, the Dutch, all of them came and looted us, took over what was ours. 
                Yet we have not done this to any other nation. We have not conquered anyone. 
                We have not grabbed their land, their culture, 
-               their history and tried to enforce our way of life on them, caring, nicely, beautifully, nicely, wondering. Hello, nicely Ruet. Hello, Rajshahi university additionally.
+               their history and tried to enforce our way of life on them, caring, nicely, beautifully, nicely, wondering. Hello, nicely Ruet. Hello, Rajshahi university additionally. cries, crys, cried.
                """
 sentences = nltk.sent_tokenize(paragraph)
 print(sentences)

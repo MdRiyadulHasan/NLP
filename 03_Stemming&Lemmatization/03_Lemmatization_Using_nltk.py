@@ -17,7 +17,7 @@ Researchers and practitioners in NLP constantly strive to improve models' abilit
 
 Despite advancements, challenges persist, including ethical considerations and biases in NLP models. Creating unbiased and inclusive language models remains a priority for the NLP community to ensure fair and equitable AI applications.
 
-Continuous research and innovation drive the evolution of NLP, fostering improved communication between humans and machines. Nicely, Nicely, Nicely, Beautifully, additionally, warmly, locally, organizing, Caring.
+Continuous research and innovation drive the evolution of NLP, fostering improved communication between humans and machines. Nicely, Nicely, Nicely, Beautifully, additionally, warmly, locally, organizing, Caring. cries, crys, cried
 """
 
 # Tokenize the text
